@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 100" role="img" aria-labelledby="title"><title id="title">Shadeveil</title><rect width="420" height="100" fill="#10100f"/><g transform="translate(8 18) scale(1.02)" fill="none" stroke-linejoin="miter"><path d="M32 3 35 13 43 6 41 17 53 16 45 25 57 31 45 35 51 47 39 44 32 61 27 45 15 50 19 38 7 33 19 27 12 17 24 18 23 7 31 14Z" stroke="#c8ad83" stroke-width="1.15" opacity=".72"/><path d="M43 13H29L20 22V29L42 39 42 44 34 52H20M21 51 31 41 22 36 22 31 42 22 42 17" stroke="#e2d1b5" stroke-width="2.15" stroke-linecap="square"/><path d="M32 1V12M32 52V63M1 32H13M51 32H63" stroke="#c8ad83" stroke-width="1.05"/></g><text x="92" y="58" fill="#f1eee6" font-family="Georgia,Times New Roman,serif" font-size="34" letter-spacing="6">SHADEVEIL</text><path d="M94 72H401" stroke="#c8ad83" stroke-width=".7" opacity=".7"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 110" role="img" aria-labelledby="title">
+  <title id="title">Shadeveil</title>
+  <rect width="620" height="110" fill="#10100f"/>
+  <g transform="translate(7 23)">
+    <circle cx="32" cy="32" r="28" fill="none" stroke="#8f754f" stroke-width=".8" opacity=".8"/>
+    <path d="M32 3 35 12 42 7 41 16 51 16 45 24 55 30 45 34 49 44 39 42 32 58 27 43 17 47 20 37 10 32 20 26 15 17 25 18 25 8 32 14Z" fill="none" stroke="#c8ad83" stroke-width="1.05" stroke-linejoin="miter" opacity=".8"/>
+    <path d="M39.5 14H28L22 20V27L39.5 34.5V41L33 49H23M24 47 32 39 24 35V30L40 22V17" fill="none" stroke="#e2d1b5" stroke-width="2.5" stroke-linecap="square" stroke-linejoin="miter"/>
+    <path d="M32 4V13M32 51V60M4 32H13M51 32H60" stroke="#c8ad83" stroke-width="1"/>
+    <path d="m32 25 2.5 5L39 32l-4.5 2-2.5 5-2.5-5L25 32l4.5-2Z" fill="#e2d1b5"/>
+  </g>
+  <text x="94" y="63" fill="#f1eee6" font-family="Georgia,Times New Roman,serif" font-size="37" letter-spacing="7">SHADEVEIL</text>
+  <path d="M96 79H601" stroke="#c8ad83" stroke-width=".7" opacity=".7"/>
+</svg>
