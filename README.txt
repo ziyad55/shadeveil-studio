@@ -12,7 +12,7 @@ Deploying
 5. Build command: leave blank
 6. Build output directory: /
 7. Deploy.
-
+ Dark editorial redesign
 Important setup before sharing with real customers
 - The enquiry form currently drafts an email to shadeveil4x@gmail.com. This address was supplied by the user; delivery has not been tested. Replace that address in index.html with an email address you can access before publishing the site as a live business contact.
 - The $99 price is an introductory offer. Confirm scope and payment terms with each client before starting work.
